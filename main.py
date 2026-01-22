@@ -40,7 +40,7 @@ Only found a single code.
 '''
 
 joinInfodata = {
-  "build": 11470000,
+  "build": 12193010,
   "locale": "en_US",
   "protocolVersion": 1,
   #"grant_type": "authorization_code"
